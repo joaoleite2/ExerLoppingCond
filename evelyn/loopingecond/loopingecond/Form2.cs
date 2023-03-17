@@ -90,34 +90,32 @@ namespace loopingecond
             l = Convert.ToDouble(txtli.Text);
             cod = Convert.ToChar(txtcod.Text);
 
-            if (cod.Equals("A"))
+            if (cod == 'A')
             {
-               if (l <= 20)
+                if (l <= 20)
                 {
-                    result = (l * 4.30);
+                    result = l * (4.30 - (4.30 * 3 / 100));
                     txtpreco.Text = result.ToString();
                 }
-                /*  else
-                   {
-                      result = l * (4.30 - (4.30 * 5 / 100));
-                       txtpreco.Text = result.ToString();
-                   }
-               }
-               else if (cod.Equals("G"))
-               {
-                   if (l <= 20)
-                   {
-                       result = l * (5.50 - (5.50 * 4 / 100));
-                       txtpreco.Text = result.ToString();
-                   }
-                   else
-                   {
-                       result = l * (5.50 - (5.50 * 6 / 100));
-                       txtpreco.Text = result.ToString();
-                   }
-               }*/
+                else
+                {
+                    result = l * (4.30 - (4.30 * 5 / 100));
+                    txtpreco.Text = result.ToString();
+                }
+            }
+            else if (cod == 'G')
+            {
+                if (l <= 20)
+                {
+                    result = l * (5.50 - (5.50 * 4 / 100));
+                    txtpreco.Text = result.ToString();
+                }
+                else
+                {
+                    result = l * (5.50 - (5.50 * 6 / 100));
+                    txtpreco.Text = result.ToString();
+                }
             }
         }
     }
 }
-    
