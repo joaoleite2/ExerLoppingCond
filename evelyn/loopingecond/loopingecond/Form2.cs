@@ -76,7 +76,6 @@ namespace loopingecond
         {
             frmmenu menu = new frmmenu();
             menu.Show();
-
             this.Hide();
         }
 

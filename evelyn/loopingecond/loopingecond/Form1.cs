@@ -35,5 +35,12 @@ namespace loopingecond
         {
             Application.Exit();
         }
+
+        private void tabuadaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmloop looping = new frmloop();
+            looping.Show();
+            this.Hide();
+        }
     }
 }

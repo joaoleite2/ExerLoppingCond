@@ -22,3 +22,16 @@ C:\Users\João\Documents\GitHub\aaaaaa\evelyn\loopingecond\loopingecond\obj\Debu
 C:\Users\João\Documents\GitHub\aaaaaa\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.csproj.CoreCompileInputs.cache
 C:\Users\João\Documents\GitHub\aaaaaa\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.exe
 C:\Users\João\Documents\GitHub\aaaaaa\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.pdb
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.csproj.AssemblyReference.cache
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.csproj.SuggestedBindingRedirects.cache
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.frmmenu.resources
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.frmcomb.resources
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.frmloop.resources
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.Properties.Resources.resources
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.csproj.GenerateResource.cache
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.csproj.CoreCompileInputs.cache
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.exe
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\obj\Debug\loopingecond.pdb
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\bin\Debug\loopingecond.exe.config
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\bin\Debug\loopingecond.exe
+C:\Users\2dsetim\Documents\ExerLoppingCond\evelyn\loopingecond\loopingecond\bin\Debug\loopingecond.pdb
