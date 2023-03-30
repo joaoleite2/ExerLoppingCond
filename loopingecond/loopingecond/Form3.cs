@@ -28,13 +28,21 @@ namespace loopingecond
             num = Convert.ToInt32(txtdigite.Text);
 
             i = 1;
-            while(i<=num)
-            {
+            while (i == 10) {
                 result = num * i;
-                i++;
                 txttabuada.Text = String.Concat(txttabuada.Text, "\r\n", result.ToString());
-
+                i++;
             }
+        }
+
+        private void btnvoltar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnlimpar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

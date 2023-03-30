@@ -76,6 +76,7 @@
             this.btnvoltar.TabIndex = 3;
             this.btnvoltar.Text = "Voltar";
             this.btnvoltar.UseVisualStyleBackColor = true;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
             // 
             // btnlimpar
             // 
@@ -85,6 +86,7 @@
             this.btnlimpar.TabIndex = 4;
             this.btnlimpar.Text = "Limpar";
             this.btnlimpar.UseVisualStyleBackColor = true;
+            this.btnlimpar.Click += new System.EventHandler(this.btnlimpar_Click);
             // 
             // lbldigite
             // 
