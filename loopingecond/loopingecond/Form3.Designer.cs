@@ -67,6 +67,7 @@
             this.btnfor.TabIndex = 2;
             this.btnfor.Text = "For";
             this.btnfor.UseVisualStyleBackColor = true;
+            this.btnfor.Click += new System.EventHandler(this.btnfor_Click);
             // 
             // btnvoltar
             // 
@@ -119,7 +120,7 @@
             this.txttabuada.Multiline = true;
             this.txttabuada.Name = "txttabuada";
             this.txttabuada.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txttabuada.Size = new System.Drawing.Size(250, 20);
+            this.txttabuada.Size = new System.Drawing.Size(250, 102);
             this.txttabuada.TabIndex = 8;
             // 
             // frmloop
